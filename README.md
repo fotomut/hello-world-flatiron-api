@@ -3,3 +3,5 @@
 
 f
 test
+
+[![Nodejitsu Deploy Status Badges](https://webhooks.nodejitsu.com/fotomut/hello-world-flatiron-api.png)](https://webops.nodejitsu.com#fotomut/fotomut-hello-world-flatiron-api) 
